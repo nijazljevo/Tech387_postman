@@ -4,5 +4,6 @@ za izradu app i unit testa pratio sam materijale preko kojih smo ucili i istrazi
 
 za prvi zadatak se nisam mogao dobro snaci preko beeceptor-a jer nisam na ovakav naci do sada radio sa mock
 vec sam prije testirao api samo na postmanu bez beeceptora i mock data
+gdje sam radio projveru get,post,put,patch,delete
 
 link za postman: https://www.getpostman.com/collections/a2b1a24c0c69e1e4d2e9
